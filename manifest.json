@@ -1,0 +1,10 @@
+{
+  "id": "debug_client",
+  "name": "Debug Client",
+  "version": "0.1.0",
+  "author": "ct",
+  "description": "A local MCP connection for inspecting and controlling a running Cthangover session.",
+  "categories": ["tools"],
+  "sources": ["src/*.cs"],
+  "references": ["lib/*.dll"]
+}
