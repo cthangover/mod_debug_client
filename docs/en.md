@@ -24,7 +24,7 @@ On Windows set `command` to `py` and use `["-3", "-B", "C:/path/to/DebugClient/m
 ## Read the running game
 
 ```text
-diagnose({"mod":"proto_land_pack"})
+diagnose({"mod":"ognishchanin_game"})
 inspect({"area":"node","path":"/root/SceneManager"})
 describe({"query":"settings"})
 run({"command":"settings.read"})

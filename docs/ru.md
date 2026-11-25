@@ -24,7 +24,7 @@
 ## Посмотреть состояние игры
 
 ```text
-diagnose({"mod":"proto_land_pack"})
+diagnose({"mod":"ognishchanin_game"})
 inspect({"area":"node","path":"/root/SceneManager"})
 describe({"query":"settings"})
 run({"command":"settings.read"})
